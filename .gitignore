@@ -1,0 +1,13 @@
+# 依赖
+node_modules/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# 本地环境(可能含真实 token/key)
+.env
+.env.*
